@@ -11,6 +11,7 @@ Or you can clone the git repository, then use runApp():
 
 # First clone the repository with git. If you have cloned it into
 # ~/shiny, first go to that directory, then use runApp().
+
 setwd("~/shiny")
 runApp()
 
