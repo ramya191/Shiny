@@ -10,7 +10,7 @@ runGitHub("shiny", "rstudio")
 Or you can clone the git repository, then use runApp():
 
 # First clone the repository with git. If you have cloned it into
-# ~/shiny_example, first go to that directory, then use runApp().
+# ~/shiny, first go to that directory, then use runApp().
 setwd("~/shiny")
 runApp()
 
